@@ -9,7 +9,7 @@ Visual Studio Code.
 ## Steps -
 
 1. Clone this repo
-`git clone https://github.com/SMSAlert/SMSAlert-Azure-Send-SMS.git`
+`git clone https://github.com/SMSAlert/azure-node-js-sample.git`
 
 2. Import it into Visual Studio Code.
 
